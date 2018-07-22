@@ -1,14 +1,14 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Woo DEV Review
+email:       whk.developer@gmail.com
+author:      Woohyun Kim
+description: "개발, 전자제품 리뷰 등 관심사 블로그"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://woohyunkim-dev.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
+ - _about.md
+ - _contact.html
 
 # Google services
 google_verification:
@@ -38,7 +38,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: woohyunkim-dev
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -51,7 +51,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: woohyunkim-dev
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
